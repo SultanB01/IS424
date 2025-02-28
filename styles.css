@@ -11,6 +11,9 @@ p{
     margin: 30px;
     color: aqua;
 }
+ol{
+    color:bisque ;
+}
 body{
     color: aliceblue;
     background-color: black;
